@@ -2,7 +2,7 @@
 
 ### software engineer. community leader. empowering women in tech.
 
-I'm an aspiring software developer from the Bay Area  🌉  fascinated by the intersection of technology, data, & product 💡
+I'm an aspiring software developer from the Bay Area fascinated by the intersection of technology, data, & product 💡
 
 
 Learn more about me @ [my website](http://anchitab.github.io). 
