@@ -1,6 +1,6 @@
 ## Hi there, I'm Anchita 👋🏼 
 
-### software engineer. community leader. empowering women in tech.
+### let's chat about software engineering, community, and empowering women in tech!
 
 I'm an aspiring software developer from the Bay Area fascinated by the intersection of technology, data, & product 💡
 
