@@ -5,8 +5,6 @@
 I'm an aspiring software developer from the Bay Area fascinated by the intersection of technology, data, & product 💡
 
 
-Learn more about me @ [anchita.me](anchitab.github.io)
-
 <!--
 **anchitab/anchitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
