@@ -1,6 +1,6 @@
 # Hi, I'm Anchita 👋🏼 
 
-[`website`](https://anchitab.github.io/)| [`twitter`](https://anchitab.github.io/) | [`linkedin`](https://anchitab.github.io/) 
+[`website`](https://anchitab.github.io/)| [`twitter`](https://twitter.com/anchita_bora) | [`linkedin`](https://www.linkedin.com/in/anchitabora) 
 
 <!--
 **anchitab/anchitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
