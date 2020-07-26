@@ -1,4 +1,4 @@
-## Hi there, I'm Anchita 👋🏼 
+# Hi, I'm Anchita 👋🏼 
 
 I'm an incoming sophomore studying computer science at the University of California, Riverside.
 
