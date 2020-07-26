@@ -1,10 +1,14 @@
 ## Hi there, I'm Anchita 👋🏼 
 
-### let's chat about software engineering, community, and empowering women in tech!
+I'm an incoming sophomore studying computer science at the University of California, Riverside.
 
-I'm an aspiring software developer from the Bay Area fascinated by the intersection of technology, data, & product 💡
+- 💻 Software Engineering Intern @ [Open Water](https://openwatervc.com/).
+- 👩‍💻 President @ [Women in Computing @ UCR](https://winc.cs.ucr.edu/#home).
+- 🍊 Sponsorship Director @ [Citrus Hack](https://citrushack.com/).
+- 🐦 #Earlybird @ [Twitter](https://twitter.com/TwitterU/status/1263916510688325632).
+- 💬 Ask me about spin, travel, and empowering women in tech.
 
-Learn more about me @[👩🏻‍💻](https://anchitab.github.io/)
+Learn more about me @ [`anchitab.github.io`](https://anchitab.github.io/)
 
 <!--
 **anchitab/anchitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
