@@ -1,6 +1,12 @@
-# Hi, I'm Anchita 👋🏼 
+## Hi, I'm Anchita 👋🏼 
 
 [`website`](https://anchitab.github.io/) | [`twitter`](https://twitter.com/anchita_bora) | [`linkedin`](https://www.linkedin.com/in/anchitabora) 
+
+- 😇 pronouns: she/her
+- 🌱 curr: president @ ucr women in computing, sponsorship director @ citrus hack, fellow @ rtc and facebook abcs, studying computer science @ ucr
+- 🔙prev: swe intern @ open water vc, earlybird @ twitter
+- 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
+- ☁️ quarantined in the san francisco bay area
 
 <!--
 **anchitab/anchitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
