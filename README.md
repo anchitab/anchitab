@@ -5,8 +5,8 @@
 - 😇 pronouns: she/her
 - 🌱 curr: president @ ucr women in computing, sponsorship director @ citrus hack, fellow @ rtc and facebook abcs, studying computer science @ ucr
 - 🔙 prev: swe intern @ open water vc, earlybird @ twitter
-- 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
 - ☁️ quarantined in the san francisco bay area
+- 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
 
 <!--
 **anchitab/anchitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
