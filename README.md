@@ -3,7 +3,7 @@
 [`website`](https://anchitab.github.io/) | [`twitter`](https://twitter.com/anchita_bora) | [`linkedin`](https://www.linkedin.com/in/anchitabora) 
 
 - 😇 pronouns: she/her
-- 🌱 curr: president @ ucr women in computing, sponsorship director @ citrus hack, fellow @ rtc and facebook abcs, studying computer science @ ucr
+- 🌱 curr: president @ ucr women in computing, sponsorship director @ citrus hack, fellow @ rtc and facebook abcs
 - 🔙 prev: swe intern @ open water vc, earlybird @ twitter
 - ☁️ quarantined in the san francisco bay area
 - 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
