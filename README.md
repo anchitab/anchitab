@@ -1,6 +1,6 @@
 ## Hi, I'm Anchita 👋🏼 
 
-[`website`](https://anchitab.github.io/) | [`linkedin`](https://www.linkedin.com/in/anchitabora) | [`twitter`](https://twitter.com/anchita_bora)
+[`website`](https://anchita.xyz/) | [`linkedin`](https://www.linkedin.com/in/anchitabora) | [`twitter`](https://twitter.com/anchita_bora)
 
 - 😇 pronouns: she/her
 - 🌱 curr: president @ ucr women in computing, sponsorship director @ citrus hack, and fellow @ rtc 
