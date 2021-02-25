@@ -1,6 +1,6 @@
 ## Hi, I'm Anchita 👋🏼 
 
-[`website`](https://anchita.xyz/) | [`linkedin`](https://www.linkedin.com/in/anchitabora) | [`twitter`](https://twitter.com/anchita_bora)
+[`website`](https://anchita.xyz/) | [`twitter`](https://twitter.com/anchita_bora) | [`linkedin`](https://www.linkedin.com/in/anchitabora)
 
 - 😇 pronouns: she/her
 - 🌱 curr: swe intern @ tesla, prez @ ucr women in computing, sponsorship director @ citrus hack
