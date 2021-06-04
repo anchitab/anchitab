@@ -3,8 +3,8 @@
 [`website`](https://anchita.xyz/) | [`twitter`](https://twitter.com/anchita_bora) | [`linkedin`](https://www.linkedin.com/in/anchitabora)
 
 - 😇 pronouns: she/her
-- 🌱 curr: swe intern @ tesla, prez @ ucr women in computing, sponsorship director @ citrus hack
-- 🔙 prev: swe intern @ ow vc, earlybird @ twitter
+- 🌱 curr: prez @ ucr women in computing
+- 🔙 prev: swe intern @ tesla, swe intern @ ow vc, earlybird @ twitter
 - ☁️ quarantined in the sf bay area
 - 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
 
