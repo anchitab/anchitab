@@ -4,8 +4,6 @@
 
 - 😇 pronouns: she/her
 - 🌱 curr: ☁️ stuff @ microsoft, prez @ ucr women in computing
-- 🔙 prev: swe intern @ tesla, swe intern @ ow vc, earlybird @ twitter
-- ☁️ quarantined in the sf bay area
 - 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
 
 <!--
