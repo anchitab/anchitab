@@ -2,9 +2,9 @@
 
 [`website`](https://anchita.xyz/) | [`twitter`](https://twitter.com/anchita_bora) | [`linkedin`](https://www.linkedin.com/in/anchitabora)
 
-- 😇 pronouns: she/her
+<!-- - 😇 pronouns: she/her
 - 🌱 curr: ☁️ stuff @ microsoft, prez @ ucr women in computing
-- 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel!
+- 🍵 lets grab some (virual) tea and chat about tech, product, podcasts, and travel! -->
 
 <!--
 **anchitab/anchitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
